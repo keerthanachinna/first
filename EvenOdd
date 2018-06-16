@@ -1,0 +1,15 @@
+import java.utill.scanner
+class check EvenOdd
+{
+public static void main()
+{
+int num;
+system.out.println("enter the number");
+scanner input= new scanner(system.in);
+if(num%2==0)
+sytem.out.program("the given nymber is even");
+else
+{
+sytem.out.println("the given number is odd");
+}
+}
