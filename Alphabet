@@ -1,0 +1,14 @@
+import java.utill.scanner
+public class Alphabet
+{
+public static void main(string agrs[])
+{
+char c='*'
+if((ch>='a'&&c<='z')||(c>='A'&&c<'z')
+{
+sytem.out.println(" alphabet");
+else
+{
+sytem.out.println("invalid")
+}
+}
