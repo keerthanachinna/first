@@ -1,0 +1,12 @@
+num=121
+num=int(raw_input())
+temp=n
+rev=0
+while(num>0):
+    dig=n%10
+    rev=rev*10+dig
+    num=num//10
+if(temp==rev):
+    print("yes")
+else:
+    print("yes")
